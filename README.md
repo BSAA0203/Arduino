@@ -6,9 +6,13 @@
     
     ESP8266 (Wemos D1 R1 Board)
     
-    CDS
+    Bluetooth Module
+    
+    CDS Module
     
     LED
+    
+    Android API Lv. 19 or Higher
     
     Firebase Realtime DB
 # Open-Source library
